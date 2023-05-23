@@ -1,4 +1,4 @@
-﻿Certainly! Let's go through the code step by step:
+Let's go through the code step by step:
 
 
 1. We begin by importing the necessary modules from NLTK: `WhitespaceTokenizer`, `TreebankWordTokenizer`, `TweetTokenizer`, `PorterStemmer`, `SnowballStemmer`, `WordNetLemmatizer`, and `wordnet`.
@@ -33,13 +33,13 @@ The code provides different tokenization techniques: whitespace-based, punctuati
 
 
 
+.np.
 
 
 
 
 
-
-Sure! Let's break down the code in a simpler way:
+Let's break down the code in a simpler way:
 
 
 1. We start by importing some tools from a library called NLTK. This library helps us work with natural language text.
